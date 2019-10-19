@@ -72,3 +72,6 @@ Sample Input 1 :
 Sample Output 1 :
 1100
 
+
+Praveen Mani(Delhi)
+
